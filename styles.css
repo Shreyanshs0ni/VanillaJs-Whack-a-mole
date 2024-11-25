@@ -1,0 +1,15 @@
+.grid {
+  height: 606px;
+  width: 606px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
+.square {
+  height: 200px;
+  width: 200px;
+  border: solid black 1px;
+}
+.mole {
+  background-image: url("https://image.spreadshirtmedia.net/image-server/v1/products/T1599A1PA5076PT10X15Y12D191754579W3575H4290/views/1,width=200,height=200,appearanceId=1,backgroundColor=F2F2F2/mole-animal-gift-square-fridge-magnet.jpg");
+}
